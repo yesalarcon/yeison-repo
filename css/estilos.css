@@ -158,6 +158,10 @@ nav li a:hover{
   margin-top: -100px;
 }
 
+.redes_sociales p{
+color: black;
+}
+
 .image_redes_sociales{
   height: 200px;
   display: flex;
